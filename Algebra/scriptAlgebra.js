@@ -450,3 +450,4 @@ const abcmath = (a, b, c) => (a * Math.pow(2, b)) % c === 0;
 
 console.log(abcmath(5, 1, 2));
 console.log(abcmath(1, 1, 3));
+
